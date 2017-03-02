@@ -1,3 +1,4 @@
+LOCAL_PATH := $(call my-dir)
 include $(CLEAR_VARS)
 
 LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += jodatime:libs/jodatime-2.9.2.jar
@@ -16,3 +17,4 @@ LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += playtasks920:libs/play-services-tasks-9.
 LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += androidvolley:libs/androidvolley-1.0.19.jar
 LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += googlegson:libs/googlegson-2.6.2.jar
 
+include $(BUILD_MULTI_PREBUILT)
