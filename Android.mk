@@ -14,6 +14,7 @@ LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += playlocation920:libs/play-services-locat
 LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += playmaps920:libs/play-services-maps-9.2.0.aar
 LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += playplaces920:libs/play-services-places-9.2.0.aar
 LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += playtasks920:libs/play-services-tasks-9.2.0.jar
+LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += playappindexing920:libs/play-services-appindexing-9.2.0.aar
 LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += androidvolley:libs/androidvolley-1.0.19.jar
 LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += googlegson:libs/googlegson-2.6.2.jar
 
