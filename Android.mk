@@ -18,4 +18,9 @@ LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += playappindexing920:libs/play-services-ap
 LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += androidvolley:libs/androidvolley-1.0.19.jar
 LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += googlegson:libs/googlegson-2.6.2.jar
 
+LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += dashclock:libs/dashclock-2.0.0.jar
+LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += greendao:libs/greendao-3.2.0.jar
+LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += williamchart:libs/williamchart-2.2.aar
+LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += bottombar:libs/bottombar-1.4.0.1.aar
+
 include $(BUILD_MULTI_PREBUILT)
