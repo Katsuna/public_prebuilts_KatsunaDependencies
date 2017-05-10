@@ -23,4 +23,6 @@ LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += greendao:libs/greendao-3.2.0.jar
 LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += williamchart:libs/williamchart-2.2.aar
 LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += bottombar:libs/bottombar-1.4.0.1.aar
 
+LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += androiddevicenames:libs/androiddevicenames-1.1.3.aar
+
 include $(BUILD_MULTI_PREBUILT)
