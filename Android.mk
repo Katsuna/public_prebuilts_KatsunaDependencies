@@ -15,6 +15,19 @@ LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += playmaps920:libs/play-services-maps-9.2.
 LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += playplaces920:libs/play-services-places-9.2.0.aar
 LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += playtasks920:libs/play-services-tasks-9.2.0.jar
 LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += playappindexing920:libs/play-services-appindexing-9.2.0.aar
+
+LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += firebaseanalytics1160:libs/firebase-analytics-11.6.0.aar
+LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += firebaseanalyticslicense1160:libs/firebase-analytics-license-11.6.0.aar
+LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += firebaseanalyticsimpl1160:libs/firebase-analytics-impl-11.6.0.aar
+LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += firebaseanalyticsimpllicense1160:libs/firebase-analyticsimpl-license-11.6.0.aar
+LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += firebasecommon1160:libs/firebase-common-11.6.0.aar
+LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += firebasecommonlicense1160:libs/firebase-common-license-11.6.0.aar
+LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += firebasecore1160:libs/firebase-core-11.6.0.aar
+LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += firebasecrash1160:libs/firebase-crash-11.6.0.aar
+LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += firebasecrashlicense1160:libs/firebase-crash-license-11.6.0.aar
+LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += firebaseiid1160:libs/firebase-iid-11.6.0.aar
+LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += firebaseiidlicense1160:libs/firebase-iid-license-11.6.0.aar
+
 LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += androidvolley:libs/androidvolley-1.0.19.jar
 LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += googlegson:libs/googlegson-2.6.2.jar
 
