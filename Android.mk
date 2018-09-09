@@ -2,7 +2,9 @@ LOCAL_PATH := $(call my-dir)
 include $(CLEAR_VARS)
 
 # Android SDK
-
+LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += \
+    android-support-constraint-layout:../sdk/current/extras/constraint-layout/libs/android-support-constraint-layout.jar \
+    android-support-constraint-layout-solver:../sdk/current/extras/constraint-layout-solver/android-support-constraint-layout-solver.jar
 
 # third party
 LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += jodatime:libs/jodatime-2.9.2.jar
