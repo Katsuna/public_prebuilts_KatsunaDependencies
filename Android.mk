@@ -13,7 +13,7 @@ LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += roundedimageview:libs/roundedimageview-2
 LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += fabtransformation:libs/fabtransformation-1.0.0.aar
 LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += ezvcard:libs/ezvcard-0.9.9.jar
 
-LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += androidvolley:libs/androidvolley-1.0.19.jar
+LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += androidvolley:libs/androidvolley-1.1.1.aar
 LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += googlegson:libs/googlegson-2.6.2.jar
 
 LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += dashclock:libs/dashclock-2.0.0.jar
