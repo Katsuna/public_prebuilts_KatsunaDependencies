@@ -23,6 +23,8 @@ LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += bottombar:libs/bottombar-1.4.0.1.aar
 
 LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += androiddevicenames:libs/androiddevicenames-1.1.3.aar
 
+LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += commonslang3:libs/commonslang3-3.8.1.jar
+
 # Google Play Services
 LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += playbase920:libs/play-services-base-9.2.0.aar
 LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += playbasement920:libs/play-services-basement-9.2.0.aar
