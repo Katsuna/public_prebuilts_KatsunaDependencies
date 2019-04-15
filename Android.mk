@@ -25,6 +25,9 @@ LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += androiddevicenames:libs/androiddevicenam
 
 LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += commonslang3:libs/commonslang3-3.8.1.jar
 
+# Custom volley lib that can handle 302 redirects (and https)
+LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += samkirtonvolley:libs/samkirton-volley-1.0.19.jar
+
 # Google Play Services
 LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += playbase920:libs/play-services-base-9.2.0.aar
 LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += playbasement920:libs/play-services-basement-9.2.0.aar
